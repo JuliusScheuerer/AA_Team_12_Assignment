@@ -26,7 +26,7 @@ Dazu am besten in IDE Terminal öffnen (mit Strg+Shift+Ö) oder im Ordner rechts
 2. Test: `git remote add origin https://<UserName>:<Passwort>@github.com/JuliusScheuerer/AA_Team_12_Assignment.git`
 
 
-- Datasets aus WhatsApp downloaden, entzippen und im gleichen Ordner wie AA_Team_12_code.ipynb ablegen
+- Beide zips aus WhatsApp downloaden und entzippen. Dann datasets im gleichen Ordner wie AA_Team_12_code.ipynb ablegen und csv in datasets ablegen.
 
 - Dann git commands unten testen
 
