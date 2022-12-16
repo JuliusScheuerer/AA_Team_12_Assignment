@@ -22,7 +22,7 @@ Dazu am besten in IDE Terminal öffnen (mit Strg+Shift+Ö) oder im Ordner rechts
 `git clone https://github.com/JuliusScheuerer/AA_Team_12_Assignment.git`
 
 - Ggf. mit remote repo verbinden (in IDE Terminal oder Git bash)
-1. Test: `git remote add origin https://@github.com/JuliusScheuerer/AA_Team_12_Assignment.git`
+1. Test: `git remote add origin https://github.com/JuliusScheuerer/AA_Team_12_Assignment.git`
 2. Test: `git remote add origin https://<UserName>:<Passwort>@github.com/JuliusScheuerer/AA_Team_12_Assignment.git`
 
 
