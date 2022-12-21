@@ -1,7 +1,7 @@
 # AA_Team_12_Assignment
 
 ## Setup
-- Github Account erstellen
+- Pornhub Account erstellen
 - Git installieren
 - Jupyter notebook oder IDE (z.B. Visual Studio Code) nutzen - letzteres evtl. einfacher, bei jupyter notebook müsstet ihr git bash nutzen zum downloaden und hochladen des Codes
 - Ordner erstellen für Projekt
